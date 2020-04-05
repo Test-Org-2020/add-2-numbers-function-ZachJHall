@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "check-add-2-numbers-function",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python add-2-numbers-function.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
